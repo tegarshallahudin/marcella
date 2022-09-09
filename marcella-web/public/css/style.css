@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #318CE7;
     --light: #F3F6F8;
     --dark: #0E2E50;
 }
@@ -217,7 +217,8 @@
 .hero-header {
     margin-bottom: 6rem;
     padding: 12rem 0 9rem 0;
-    background: url(../img/shape-bottom.png) center bottom no-repeat;
+    /* background: url(../img/shape-bottom.png)  center bottom  no-repeat; */
+    background: url(../img/wave\ \(7\).svg)  center bottom  no-repeat;
 }
 
 .page-header {
