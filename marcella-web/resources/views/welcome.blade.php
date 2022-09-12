@@ -70,12 +70,12 @@
                     <div class="position-relative w-100 mt-3">
                         <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Alamat E-mail" style="height: 48px;">
                     </div>
-                    <div class="position-relative w-100 mt-3"> 
-                        <a href="" class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight">Mulai Sekarang</a>
+                    <div class="position-relative w-100 mt-3">
+                        <a href="" class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight mt-3">Mulai Sekarang</a>
                     </div>
                 </div>
                 <div class="col-md-6 text-center mb-n5 d-none d-md-block">
-                    <img class="img-fluid mt-5" style="max-height: 250px;" src="img/newsletter.png">
+                    <img class="img-fluid mt-8" style="max-height: 350px;" src="img/newsletter.png">
                 </div>
             </div>
         </div>
@@ -273,65 +273,4 @@
     </div>
     <!-- Testimonial End -->
 
-
-    <!-- Team Start -->
-    <div class="container-xxl py-6">
-        <div class="container">
-            <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Our Team</div>
-                <h2 class="mb-5">Meet Our Team Members</h2>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        <h5>Full Name</h5>
-                        <p class="mb-4">Designation</p>
-                        <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-1.jpg" alt="">
-                        <div class="d-flex justify-content-center">
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item">
-                        <h5>Full Name</h5>
-                        <p class="mb-4">Designation</p>
-                        <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-2.jpg" alt="">
-                        <div class="d-flex justify-content-center">
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item">
-                        <h5>Full Name</h5>
-                        <p class="mb-4">Designation</p>
-                        <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-3.jpg" alt="">
-                        <div class="d-flex justify-content-center">
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item">
-                        <h5>Full Name</h5>
-                        <p class="mb-4">Designation</p>
-                        <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-4.jpg" alt="">
-                        <div class="d-flex justify-content-center">
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
 @endsection
